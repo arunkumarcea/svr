@@ -1,0 +1,9 @@
+sha_small 
+2200 worklaods
+220,000 saif files for 220,000 cycles 
+these 220K cycles are sampled from 220,000,00 cycles
+now using 100 such saif files are used for 1 misr signature..
+so we have 2200 misr signatures
+
+in the earlier experiments we used 1000 saif files for 1 misr signature.
+so we had 220 workloads.

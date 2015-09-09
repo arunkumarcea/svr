@@ -1,0 +1,17 @@
+1p_no_ss_with_h
+
+tau is:0.075 
+	Precision RBF: 0.086
+
+for good sp to avf fit
+kernel rbf
+C_range = np.linspace(1000,100000,20 )
+    gamma_range = np.linspace(1e-2, 1e-4, 3)
+    epsilon_range = np.array([0.1])
+
+
+for good avf fit when sp of 69 ff icache flipflops were learnt
+
+{'epsilon': 1.0000000000000001e-05, 'C': 10.0, 'gamma': 0.0025749999999999992, 'kernel': 'rbf'}
+0.692581869779
+

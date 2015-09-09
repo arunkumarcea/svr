@@ -1,0 +1,27 @@
+With all(2363) flipflops (0.1% sampling)
+
+{'epsilon': 1.0000000000000001e-05, 'C': 1000.0, 'gamma': 0.001, 'kernel': 'rbf'}
+0.941470798775
+	Tau is: 0.588
+	NRMSE : 0.091
+Pearson correlation coefficient
+(0.97173903185282406, 9.0153821237933447e-110)
+
+With 64 flipflops (0.1% sampling)
+
+{'epsilon': 0.050005000000000001, 'C': 100000.0, 'gamma': 0.001, 'kernel': 'rbf'}
+0.895270231255
+	Tau is: 0.680
+	NRMSE : 0.114
+Pearson correlation coefficient
+(0.95543280685619159, 4.6271116619954346e-93)
+
+With 1 flipflop (0.1% sampling)
+{'epsilon': 0.10000000000000001, 'C': 75250.0, 'gamma': 0.001, 'kernel': 'rbf'}
+0.707851218344
+	Tau is: 0.534
+	NRMSE : 0.222
+Pearson correlation coefficient
+(0.82114724845818032, 9.3804825050325292e-44)
+
+
